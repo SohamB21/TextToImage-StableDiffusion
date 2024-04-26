@@ -3,9 +3,9 @@
 This code model lets you generate images based on descriptive prompts! 
 
 * **Functionality:**
-    1. You describe the image you want (e.g., "a cat playing with yarn").
-    2. The code uses Stable Diffusion to understand your description.
-    3. It creates an image based on your description!  ✨
+    * You describe the image you want (e.g., "a cat playing with yarn").
+    * The code uses Stable Diffusion to understand your description.
+    * It creates an image based on your description!  ✨
 
 * **Tech Stack:**
     * Python: The programming language used here in Google Colab.
